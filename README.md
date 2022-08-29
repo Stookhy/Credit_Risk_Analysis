@@ -9,3 +9,7 @@
   5.  Compare the advantages and disadvantages of each supervised learning algorithm.
   6.  Determine which supervised learning algorithm is best used for a given data set or scenario.
   7.  Use ensemble and resampling techniques to improve model performance.
+
+## Results
+
+## Summary
