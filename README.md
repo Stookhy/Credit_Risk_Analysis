@@ -13,9 +13,10 @@
 ## Results Six Machine Learning Models
 
   1.  Naive Random Oversampling
-    * Balanced accuracy scores is 0.6456130066757718
-    * Precision scores high risk is 0.01 low risk is 0.68
-    * Recall scores high risk is 0.61 low risk is 0.68
+
+    *   Balanced accuracy scores is 0.6456130066757718
+    *   Precision scores high risk is 0.01 low risk is 0.68
+    *   Recall scores high risk is 0.61 low risk is 0.68
 
 
   2.  SMOTE Oversampling
