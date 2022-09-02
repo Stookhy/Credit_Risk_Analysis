@@ -10,6 +10,6 @@
   6.  Determine which supervised learning algorithm is best used for a given data set or scenario.
   7.  Use ensemble and resampling techniques to improve model performance.
 
-## Results
+## Results: Six(6) machine learning models
 
 ## Summary
