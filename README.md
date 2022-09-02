@@ -16,36 +16,36 @@
    *   Balanced accuracy scores is 0.6456130066757718
    *   Precision scores high risk is 0.01 low risk is 0.68
    *   Recall scores high risk is 0.61 low risk is 0.68
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/Naive%20Random%20Oversampling.png?raw=true)
 
   ### 2.  SMOTE Oversampling
    *   Balanced accuracy scores is 0.6234433606890912
    *   Precision scores high risk is 0.01 low risk is 1.00
    *   Recall scores high risk is 0.61 low risk is 0.64
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling.png?raw=true)
 
   ### 3.  Undersampling
    *  Balanced accuracy scores is 0.6234433606890912
    *  Precision scores high risk is 0.01 low risk is 1.00
    *  Recall scores high risk is 0.61 low risk is 0.43
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png?raw=true)
 
   ### 4.  Combination (Over and Under) Sampling
    *  Balanced accuracy scores is 0.5146760216106459
    *  Precision scores high risk is 0.01 low risk is 1.00
    *  Recall scores high risk is 0.70 low risk is 0.58
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/Combination%20(Over%20and%20Under)%20Sampling.png?raw=true)
 
   ### 5.  Balanced Random Forest Classifier
    *  Balanced accuracy scores is 0.7885466545953005
    *  Precision scores high risk is 0.03 low risk is 1.00
    *  Recall scores high risk is 0.70 low risk is 0.87
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/Balanced%20Random%20Forest%20Classifier.png?raw=true)
 
  ### 6.  Easy Ensemble AdaBoost Classifier
    *  Balanced accuracy scores is 0.9316600714093861
    *  Precision scores high risk is 0.09 low risk is 1.00
    *  Recall scores high risk is 0.92 low risk is 0.94
-
+![This is an image](https://github.com/Stookhy/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.png?raw=true)
 
 ## Summary
