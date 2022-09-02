@@ -10,13 +10,23 @@
   6.  Determine which supervised learning algorithm is best used for a given data set or scenario.
   7.  Use ensemble and resampling techniques to improve model performance.
 
-## Results: Six Machine Learning Models
+## Results Six Machine Learning Models
 
   1.  Naive Random Oversampling
-  2.  SMOTE Oversampling
-  3.  Undersampling
-  4.  Combination (Over and Under) Sampling
-  5.  Balanced Random Forest Classifier
-  6.  Easy Ensemble AdaBoost Classifier
+
+
+  3.  SMOTE Oversampling
+
+
+  5.  Undersampling
+
+
+  7.  Combination (Over and Under) Sampling
+
+
+  9.  Balanced Random Forest Classifier
+
+
+  11.  Easy Ensemble AdaBoost Classifier
 
 ## Summary
