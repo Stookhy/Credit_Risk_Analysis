@@ -13,20 +13,39 @@
 ## Results Six Machine Learning Models
 
   1.  Naive Random Oversampling
+    * Balanced accuracy scores is 0.6456130066757718
+    * Precision scores high risk is 0.01 low risk is 0.68
+    * Recall scores high risk is 0.61 low risk is 0.68
 
 
-  3.  SMOTE Oversampling
+  2.  SMOTE Oversampling
+    * Balanced accuracy scores is 0.6234433606890912
+    * Precision scores high risk is 0.01 low risk is 1.00
+    * Recall scores high risk is 0.61 low risk is 0.64
 
 
-  5.  Undersampling
+  3.  Undersampling
+    * Balanced accuracy scores is 0.6234433606890912
+    * Precision scores high risk is 0.01 low risk is 1.00
+    * Recall scores high risk is 0.61 low risk is 0.43
 
 
-  7.  Combination (Over and Under) Sampling
+  4.  Combination (Over and Under) Sampling
+    * Balanced accuracy scores is 0.5146760216106459
+    * Precision scores high risk is 0.01 low risk is 1.00
+    * Recall scores high risk is 0.70 low risk is 0.58
 
 
-  9.  Balanced Random Forest Classifier
+  5.  Balanced Random Forest Classifier
+    * Balanced accuracy scores is 0.7885466545953005
+    * Precision scores high risk is 0.03 low risk is 1.00
+    * Recall scores high risk is 0.70 low risk is 0.87
 
 
-  11.  Easy Ensemble AdaBoost Classifier
+  6.  Easy Ensemble AdaBoost Classifier
+    * Balanced accuracy scores is 0.9316600714093861
+    * Precision scores high risk is 0.09 low risk is 1.00
+    * Recall scores high risk is 0.92 low risk is 0.94
+
 
 ## Summary
